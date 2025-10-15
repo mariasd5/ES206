@@ -120,7 +120,7 @@ Une amélioration possible serait l’ajout d’un correcteur PI complet pour co
 ## Exécution des simulations
 
 1. Ouvrir MATLAB.  
-2. Aller dans le dossier du projet souhaité (Projet 1, 2 ou 3).  
+2. Aller dans le dossier du projet souhaité (Projet 1, 2, 3 ou 4).  
 3. Exécuter le fichier `main.m`.  
 4. Les résultats et figures seront enregistrés automatiquement dans le sous-dossier `Graphiques`.
 
